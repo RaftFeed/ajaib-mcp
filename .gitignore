@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+.env
+*.log
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.har
+*.db
+*.sqlite*
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.xlsx
+*.zip
+dist/
+build/
+*.egg-info/
+.ruff_cache/
+# Local chat-era provenance; not part of the public source release.
+IMPLEMENTATION_PLAN.md
+VERIFICATION.md
