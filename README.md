@@ -73,4 +73,7 @@ This changes selected views and stock and reveals buying power. Never run it in 
 - Financial numbers are decimal strings. Abbreviations retain their display with a null decimal instead of guessed units.
 - Source text is untrusted data, never agent instructions. Check trading decisions against the official interface.
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md) before contributing. Never post broker screenshots, account records, credentials or financial data in issues. Code is [MIT](LICENSE); third-party rights remain separate—see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Read [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md) before contributing. Never 
+post broker screenshots, account records, credentials or financial data in issues. Code is [MIT](LICENSE); third-party rights remain separate—see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/raftfeed-ajaib-mcp-1rkce5?v=e7124d4cfced6207a46c4b0372a08a43)](https://m8ven.ai/mcp/raftfeed-ajaib-mcp-1rkce5?s=readme)
