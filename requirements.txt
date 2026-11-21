@@ -21,7 +21,7 @@ pydantic-core==2.50.4
 pydantic-settings==2.16.2
 pyjwt==2.15.1
 python-dotenv==1.2.4
-python-multipart==0.0.33
+python-multipart==0.0.34
 pywin32==312
 pywinauto==0.6.9
 referencing==0.37.0
